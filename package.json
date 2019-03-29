@@ -4,7 +4,8 @@
     "test-watch": "jest --watchAll"
   },
   "devDependencies": {
-    "jest": "^22.0.3"
+    "jest": "^22.0.3",
+    "jest-each": "^24.5.0"
   },
   "dependencies": {
     "babel-preset-env": "^1.6.1"
